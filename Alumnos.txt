@@ -1,0 +1,3 @@
+123456, Raul Lopez, nynnn
+456789, Luiz Santillan, 9.9
+129539, Yechua Perez, 7.6
